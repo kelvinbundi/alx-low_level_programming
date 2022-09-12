@@ -12,11 +12,13 @@
  *
  * * Return: 0 Value if it works
  *
- * */
+ */
 int main(void)
 {
-	char x ='a';
-	while (x <='z')
+	char x = 'a';
+	while (x <= 'z')
+
+
 	{
 		if (x != 'e' && x != 'q')
 		{
