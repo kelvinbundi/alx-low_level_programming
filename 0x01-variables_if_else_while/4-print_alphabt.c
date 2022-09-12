@@ -2,7 +2,9 @@
 
 /**
  * main - prints the alphabet in lowercase
- * Return: 0 Value if it works
+ * putchar screen information
+ * description of an empty parameter
+ * Return: Always 0.
  */
 int main(void)
 {
